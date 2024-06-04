@@ -88,13 +88,6 @@
 2. Поток функций на каждом экране
 ![](https://github.com/Yazan98/Coina/blob/main/resources/Feature%20Flow.jpg?raw=true)
 
-
-## Информация о скриншотах
-
-1. [Изображения приложения](https://github.com/Yazan98/Coina/tree/main/resources)
-2. [Видео сравнения Android, IOS](https://github.com/Yazan98/Coina/blob/main/resources/Compare%20Platforms.mp4)
-
-
 ## Требования к IDE
 
 1. Android Studio Версия: Android Studio Flamingo | 2022.2.1 Canary 5
